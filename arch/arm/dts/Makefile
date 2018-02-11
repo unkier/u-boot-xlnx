@@ -99,6 +99,7 @@ dtb-$(CONFIG_ARCH_ZYNQ) += zynq-zc702.dtb \
 	zynq-zed.dtb \
 	zynq-zybo.dtb \
 	zynq-microzed.dtb \
+	zynq-zturn.dtb \
 	zynq-cc108.dtb \
 	zynq-cse-nand.dtb \
 	zynq-cse-nor.dtb \
